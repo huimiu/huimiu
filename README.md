@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Metrics](/github-metrics.svg)
+<p align="left"><img src="https://raw.githubusercontent.com/huimiu/huimiu/refs/heads/main/github-metrics.svg" /></p>
+
 <!--
 **huimiu/huimiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

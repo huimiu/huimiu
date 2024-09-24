@@ -18,3 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes

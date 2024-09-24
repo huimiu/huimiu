@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Hui's GitHub stats](https://github-readme-stats.vercel.app/api?username=huimiu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Hui's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=huimiu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Metrics](/github-metrics.svg)
 <!--
 **huimiu/huimiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

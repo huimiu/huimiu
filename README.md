@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Microsoft Identity, AI
 - 👯 I’m looking to collaborate on Community Contributions
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Teams Toolkit
+- 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Fun fact:
 - 📰 Read my blogs at: 

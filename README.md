@@ -7,5 +7,3 @@
 - 🔭 I’m currently working on Teams Toolkit, M365, MS Azure.
 - 🌱 I’m currently learning Microsoft Identity, AI.
 - 📫 How to reach me
-- 😄 Fun fact
-- 📰 Read my blogs at

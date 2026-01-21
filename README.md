@@ -4,5 +4,5 @@
 -->
 
 - 🔭 I’m currently working on AI Agent developer tooling.
-- 🌱 I’m currently learning Microsoft Identity, AI.
+- 🌱 I’m currently learning AI Agents.
 - 👯 I’m looking to collaborate on Developer Tooling.
